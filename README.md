@@ -18,11 +18,11 @@ This PR addresses issue #123 by adding a new feature that allows users to filter
 List the changes this pull request mades. Ensure they are clear and relevant to the task or issue you are addressing. Try to use a prefix to inform the changes
 
 **Example:**
-- Feat - Add filtering flow for the `DragonController`.
-- Feat - Implement the filter by species method in the service layer.
-- Tests - Create unit tests for the filtering feature.
-- Doc - Updated API documentation to include the new filtering query parameter.
-- Fix - Solve an issue with filter by species method.
+- Feat -> Add filtering flow for the `DragonController`.
+- Feat -> Implement the filter by species method in the service layer.
+- Tests -> Create unit tests for the filtering feature.
+- Doc -> Updated API documentation to include the new filtering query parameter.
+- Fix -> Solve an issue with filter by species method.
 
 ---
 
