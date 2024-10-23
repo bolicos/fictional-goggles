@@ -1,4 +1,4 @@
-# Hacktoberfest Contribution: Pull Request/Merge Request Template
+# Hacktoberfest Contribution: Pull Request/Merge Request Templates
 
 ## 📝 Description
 Provide a clear and concise description of what this MR/PR addresses. Include the following:
